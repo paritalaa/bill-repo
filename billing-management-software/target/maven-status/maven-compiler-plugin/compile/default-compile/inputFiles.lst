@@ -1,0 +1,8 @@
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/App.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/model/User.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/controller/RegistrationController.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/service/UserService.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/service/UserServiceImpl.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/dao/UserDao.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/dao/UserDaoImpl.java
+/root/Depoly/billing-management-software/src/main/java/billsystem/demo/model/Login.java
